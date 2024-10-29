@@ -8,7 +8,7 @@ Rainbow table attack on SHA-3-256 in progress..
 # Collaborater
 
 * [Thanushan Pirabakaran](https://github.com/uvsq21919161)
-* [Maya Santini](https://github.com/uvsq22003661)
+* [Maya Santini](https://github.com/0kchak)
 * [Theo Fratczack](https://github.com/Bynawers)
 
 # Install
